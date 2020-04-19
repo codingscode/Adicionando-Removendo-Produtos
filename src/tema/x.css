@@ -1,0 +1,25 @@
+.x {
+    background-color: rgb(20, 110, 27);
+    color: white;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+
+
+    width: 100%;
+  padding: 96px;
+  background: #ffffff;
+  box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  margin: 20px;
+
+  background-color: rgb(238, 238, 238);
+}
